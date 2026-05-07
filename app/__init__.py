@@ -1,0 +1,1 @@
+"This folder is pthon package for shortning the url"
